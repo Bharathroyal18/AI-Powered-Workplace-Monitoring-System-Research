@@ -1,0 +1,16 @@
+# Sensitive / personal data and generated artifacts
+dataset/
+data/
+models/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
