@@ -56,8 +56,8 @@ and local credentials.
 ### Installation
 
 ```bash
-git clone https://github.com/Tarun7981448226/AI_Powered_Workplace_Monitoring_System.git
-cd AI_Powered_Workplace_Monitoring_System
+git clone https://github.com/Bharathroyal18/AI-Powered-Workplace-Monitoring-System-Research.git
+cd AI-Powered-Workplace-Monitoring-System-Research
 
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
